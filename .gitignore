@@ -1,4 +1,17 @@
-venv/
+# Python
 __pycache__/
-*.pyc
-# .DS_Store
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+env/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code
+.vscode/
+.history/
